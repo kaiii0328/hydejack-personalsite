@@ -32,7 +32,7 @@ description:           >
 tagline:               Always Exploring
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Young, Faith]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Wangkai> <Jin>
+  email:               <scywj1@nottingham.edu.cn>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
