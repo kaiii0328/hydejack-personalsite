@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Wangkai> <Jin>
-  email:             <scywj1@nottingham.edu.cn>
+  name:              Wangkai Jin
+  email:             scywj1@nottingham.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,9 +27,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <kaiii0328>
-    email:           <scywj1@nottingham.edu.cn>
-    linkedin:        <王恺-金-49aa031aa>
+    github:          kaiii0328
+    email:           scywj1@nottingham.edu.cn
+    linkedin:        王恺-金-49aa031aa
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
